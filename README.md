@@ -9,6 +9,6 @@ I have made many projects In arduino and you can view them by going here
 I also have my youtube channel which is over here:  
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UChORC-rHOuC3m4vgkCxWZFQ?view_as=subscriber)  
 I also run linux and am a fan of it. It is a super fast os and helps a lot. It takes a fraction of the time required by windows. I use -->  
-[![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=Manjaro)](https://forum.manjaro.org/)  
-which runs on -->  
-[![Manjaro](https://img.shields.io/badge/-Arch%20Linux-black?style=for-the-badge&logo=Arch%20Linux)](https://bbs.archlinux.org/)
+[![Elementary Os](https://img.shields.io/badge/%20-Elementary%20Os-ff69b4?style=for-the-badge&logo=elementary&logoColor=000000)](https://elementary.io/)  
+which is based on -->  
+[![Debian](https://img.shields.io/badge/-debian-black?style=for-the-badge&logo=debian&logoColor=red)](https://www.debian.org/)
