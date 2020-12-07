@@ -9,6 +9,6 @@ I have made many projects In arduino and you can view them by going here
 I also have my youtube channel which is over here:  
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UChORC-rHOuC3m4vgkCxWZFQ?view_as=subscriber)  
 I also run linux and am a fan of it. It is a super fast os and helps a lot. It takes a fraction of the time required by windows. I use -->  
-[![Arch](https://img.shields.io/badge/%20-Arch%20Linux%20-%23000000?style=for-the-badge&logo=Arch%20Linux)]()
+[![Arch](https://img.shields.io/badge/%20-Arch%20Linux%20-%23000000?style=for-the-badge&logo=Arch%20Linux)]()  
 You can also find my bot over here -->  
 [![KyloBot](https://img.shields.io/badge/%20-Kylobot-9cf?style=for-the-badge&logo=discord)](https://discord.com/api/oauth2/authorize?client_id=740855673696419860&permissions=8&scope=bot)
