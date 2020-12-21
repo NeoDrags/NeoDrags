@@ -1,5 +1,6 @@
 # Hi there :wave: and thanks for stopping by!
-I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.  
+I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
+[![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags)](https://github.com/anuraghazra/github-readme-stats)
 I code in these languages:  
 [![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=blue)]()   [![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=Python)]()   [![Arduino](https://img.shields.io/badge/-Arduino-blueviolet?style=for-the-badge&logo=Arduino)](https://create.arduino.cc/projecthub/PR7)    [![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3)]()    [![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5)]()   [![Markdown](https://img.shields.io/badge/-Markdown-violet?style=for-the-badge&logo=Markdown)]()  
 I have a good language proficiency in Java:  
