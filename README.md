@@ -19,7 +19,7 @@ I also have my youtube channel which is over here:
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UChORC-rHOuC3m4vgkCxWZFQ?view_as=subscriber)  
 I also run linux and am a fan of it. It is a super fast os and helps a lot. It takes a fraction of the time required by windows. I use -->  
 
-[![Arch](https://img.shields.io/badge/%20-Arch%20Linux%20-%23000000?style=for-the-badge&logo=Arch%20Linux)]()  
+[![Arch](https://img.shields.io/badge/-Fedora%20Linux-blue?style=for-the-badge&logo=Fedora)]()  
 
 You can also find my bot over here -->  
 
