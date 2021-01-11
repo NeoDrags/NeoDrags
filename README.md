@@ -1,7 +1,7 @@
 # Hi there :wave: and thanks for stopping by!
 I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
