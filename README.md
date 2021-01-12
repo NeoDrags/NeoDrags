@@ -6,7 +6,9 @@ I am an ordinary 14 year old kid who loves coding, watching movies, playing mine
 ____
 
 I code in these languages:   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoDrags&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+____
 [![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=blue)]()   [![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=Python)]()   [![Arduino](https://img.shields.io/badge/-Arduino-blueviolet?style=for-the-badge&logo=Arduino)](https://create.arduino.cc/projecthub/PR7)    [![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3)]()    [![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5)]()   [![Markdown](https://img.shields.io/badge/-Markdown-violet?style=for-the-badge&logo=Markdown)]()  
 
 I have a good language proficiency in Java:  
