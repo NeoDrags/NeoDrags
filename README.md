@@ -28,8 +28,6 @@ ____
 
 ### My hobbies
 
-#### :video_game: Want to finish my game   
-#### :notebook_with_decorative_cover: Learn how to do org mode   
-#### :keyboard: Increase my typing speed :sweat_smile:
-
-Please check out my Repos below :point_down:	
+#### :video_game: Gaming and creating games 
+#### :notebook_with_decorative_cover: Writing writeups in org mode  
+#### :keyboard: Increasing my typing speed :sweat_smile:
