@@ -1,23 +1,23 @@
 # Hi there :wave: and thanks for stopping by!
 I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
+___
+
+### Here is my github stats 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
-I code in these languages:   
+### My Languages and tools:   
 
-[![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=blue)]()   [![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=Python)]()   [![Arduino](https://img.shields.io/badge/-Arduino-blueviolet?style=for-the-badge&logo=Arduino)](https://create.arduino.cc/projecthub/PR7)    [![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3)]()    [![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5)]()   [![Markdown](https://img.shields.io/badge/-Markdown-violet?style=for-the-badge&logo=Markdown)]()  
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png" />
+<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />
+<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />   
+<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />
 
-I have a good language proficiency in Java:  
-In HackerRank 4 star, silver badge proficiency --> [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=violet)](https://www.hackerrank.com/)  
-I have made many projects In arduino and you can view them by going here  
-[![Arduino](https://img.shields.io/badge/-Arduino-blueviolet?style=for-the-badge&logo=Arduino)](https://create.arduino.cc/projecthub/PR7)  
-  
-I also run linux and am a fan of it. It is a super fast os and helps a lot. It takes a fraction of the time required by windows. I use -->  
+____   
 
-[![Arch](https://img.shields.io/badge/-Fedora%20Linux-blue?style=for-the-badge&logo=Fedora)]()  
-
-You can also find my bot over here -->  
-
-[![KyloBot](https://img.shields.io/badge/%20-Kylobot-9cf?style=for-the-badge&logo=discord)](https://discord.com/api/oauth2/authorize?client_id=740855673696419860&permissions=8&scope=bot)
