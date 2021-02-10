@@ -2,13 +2,13 @@
 I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
 ___
 
-### Here is my github stats 
+## Here is my github stats 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=NeoDrags&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
-### My Languages and tools:   
+## My Languages and tools:   
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
@@ -29,7 +29,7 @@ ____
 
 ____
 
-### My hobbies
+## My hobbies
 
 #### :video_game: Gaming and creating games 
 #### :notebook_with_decorative_cover: Writing writeups in org mode  
