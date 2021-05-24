@@ -34,4 +34,4 @@ ____
 #### :video_game: Gaming and creating games 
 #### :notebook_with_decorative_cover: Writing writeups in org mode  
 #### :keyboard: Increasing my typing speed :sweat_smile:
-#### :desktop_computer: creating webpages
+#### :desktop_computer: creating webpages and working on my yash shell
