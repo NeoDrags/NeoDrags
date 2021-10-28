@@ -1,5 +1,5 @@
 # Hi there :wave: and thanks for stopping by!
-I am an ordinary 14 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
+I am an ordinary 15 year old kid who loves coding, watching movies, playing minecraft and hates bio :wink:.   
 ___
 
 ## Here is my github stats 
