@@ -1,5 +1,5 @@
 # Hi there :wave: and thanks for stopping by!
-I am an ordinary 16 year weeb who loves coding, watching anime, reading manga playing brawlhalla and hates bio :wink:. 
+I am an ordinary 16 year weeb who loves coding, watching anime, reading manga and playing brawlhalla and hates bio :wink:. 
 I'm not active right now to prepare for my entrance exams, you can see more active next year :D.
 ___
 
