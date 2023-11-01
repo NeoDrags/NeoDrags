@@ -1,6 +1,6 @@
 # Hi there :wave: and thanks for stopping by!
 17 year old weeb who loves coding, watching anime, reading manga and playing brawlhalla and hates bio :wink:. 
-I'm not active right now to prepare for my entrance exams, you can see more active next year :D.
+I'm not active right now to prepare for my entrance exams, you can see me more active next year.
 ___
 
 ## Here is my github stats 
