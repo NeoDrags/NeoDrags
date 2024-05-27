@@ -1,6 +1,6 @@
 # Hi there :wave: and thanks for stopping by!
-17 year old weeb who loves coding, watching anime, reading manga and playing brawlhalla and hates bio :wink:. 
-I'm not active right now to prepare for my entrance exams, you can see me more active next year.
+17 year old weeb who loves coding, watching anime, reading manga and playing minecraft and hates bio :wink:. 
+I'm active again so see more projects coming up
 ___
 
 ## Here is my github stats 
@@ -16,3 +16,4 @@ ____
 #### 🖥️ creating webpages and working on my neosh shell
 #### 🎥 watching anime
 #### 📖 Reading manga
+#### 💡 Tinkering around with electronics
