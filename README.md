@@ -1,5 +1,5 @@
 # Hi there :wave: and thanks for stopping by!
-17 year old weeb who loves coding, watching anime, reading manga and playing minecraft and hates bio :wink:. 
+18 year old weeb who loves coding, watching anime, reading manga and playing minecraft and hates bio :wink:. 
 I'm active again so see more projects coming up
 ___
 
