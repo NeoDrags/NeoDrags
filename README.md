@@ -1,5 +1,5 @@
 # Hi there :wave: and thanks for stopping by!
-18 year old college student who loves coding, watching f1, reading manga and playing minecraft and hates bio :wink:. 
+19 year old college student who loves coding, watching f1, reading manga and playing minecraft and hates bio :wink:. 
 I'm active again so see more projects coming up
 ___
 
@@ -11,7 +11,7 @@ ____
 ## My hobbies
 
 #### 🎮 Gaming and creating games 
-#### 📔 Writing writeups in org mode  
+#### 🤖 Working on robotics
 #### ⌨️ Increasing my typing speed :sweat_smile:
 #### 🖥️ creating webpages and working on my neosh shell
 #### 🎥 watching anime
