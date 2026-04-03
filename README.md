@@ -5,7 +5,7 @@ ___
 
 ## Here is my github stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoDrags)](https://github.com/anuraghazra/github-readme-stats)____
+[![Prateek's's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoDrags)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My hobbies
 
