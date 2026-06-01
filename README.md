@@ -2,9 +2,6 @@
 19 year old college student pursuing robotics!
 ___
 
-## Here is my github stats 
-
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=neodrags&show_icons=true&theme=transparent)
 ## My hobbies
 
 #### 🎮 Gaming
